@@ -230,4 +230,4 @@ The Product Interface is a **Streamlit** application that provides an interactiv
 ## **Installation**
 1. Clone the repository:  
    ```bash
-   git clone https://gitlab.com/linxiuyun93/DAEN690_Team3_ExplAInable.git
+   git clone https://github.com/Shreyankbaswaboina/explainable-AI.git
